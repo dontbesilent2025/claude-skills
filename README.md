@@ -38,6 +38,24 @@ npx skills add dontbesilent2025/claude-skills/skills/targeted-chatroom
 - 每位专家独立 Agent 并行对话
 - Claude 判官总结补盲区
 
+### yujie - 东北雨姐 Buddy 宠物
+
+TUI 风格的虚拟宠物互动，全程东北方言回应。
+
+**安装**：
+```bash
+npx skills add dontbesilent2025/claude-skills/skills/yujie
+```
+
+**使用**：
+在 Claude Code 中输入 `/yujie`
+
+**特点**：
+- ASCII art TUI 界面 + 状态系统
+- 喂饭、摸头、唠嗑、惹她等互动指令
+- 好感度 / 饱食度动态变化
+- 离家出走、满好感等特殊事件
+
 ## 许可
 
 MIT

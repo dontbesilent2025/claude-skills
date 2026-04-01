@@ -1,0 +1,23 @@
+{
+  "name": "@dontbesilent2025/yujie",
+  "version": "1.0.0",
+  "description": "东北雨姐 Buddy 宠物 - Claude Code Skill",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "yujie",
+    "buddy",
+    "东北雨姐",
+    "宠物"
+  ],
+  "author": "dontbesilent2025",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dontbesilent2025/claude-skills.git",
+    "directory": "skills/yujie"
+  },
+  "files": [
+    "SKILL.md"
+  ]
+}
