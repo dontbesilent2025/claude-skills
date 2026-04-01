@@ -1,3 +1,15 @@
 node_modules/
 package-lock.json
 .DS_Store
+
+# IDE/tool local skill mappings
+.agents/
+.claude/
+.kiro/
+.trae/
+
+# Local lock files
+skills-lock.json
+
+# Local skill symlinks
+skills/*/skills/
