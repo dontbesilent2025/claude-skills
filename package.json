@@ -1,0 +1,21 @@
+{
+  "name": "@dontbesilent/claude-skills",
+  "version": "1.0.0",
+  "description": "Claude Code Skills by dontbesilent",
+  "bin": {
+    "dbs-skills": "./cli.js"
+  },
+  "keywords": [
+    "claude-code",
+    "skills",
+    "ai",
+    "lacan",
+    "psychoanalysis"
+  ],
+  "author": "dontbesilent",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dontbesilent2025/claude-skills.git"
+  }
+}
