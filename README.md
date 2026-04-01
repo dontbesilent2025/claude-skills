@@ -1,8 +1,8 @@
-# Claude Skills by dontbesilent
+# Claude Skills by dontbesilent2025
 
 Claude Code Skills 集合。
 
-## 安装
+## Skills
 
 ### lacan - 拉康式精神分析对话
 
@@ -10,7 +10,7 @@ Claude Code Skills 集合。
 
 **安装**：
 ```bash
-npx @dontbesilent/claude-skills install lacan
+npx skills add dontbesilent2025/claude-skills/skills/lacan
 ```
 
 **使用**：

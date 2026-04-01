@@ -1,0 +1,22 @@
+{
+  "name": "@dontbesilent2025/lacan",
+  "version": "1.0.0",
+  "description": "拉康式精神分析对话 - Claude Code Skill",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "lacan",
+    "psychoanalysis",
+    "精神分析"
+  ],
+  "author": "dontbesilent2025",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dontbesilent2025/claude-skills.git",
+    "directory": "skills/lacan"
+  },
+  "files": [
+    "SKILL.md"
+  ]
+}
